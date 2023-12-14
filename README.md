@@ -14,6 +14,15 @@
    - c) Una función de la biblioteca estándar.
    - d) Un tipo de ciclo en C++.
   - **Respuesta correcta:** a) Una característica que permite agrupar entidades como clases, objetos y funciones bajo un nombre.
+3. **En programación orientada a objetos en C++, ¿qué es una clase?**
+   - a) Una agrupación de funciones.
+   - b) Un tipo de variable.
+   - c) Un tipo de dato primitivo.
+   - d) Una plantilla para crear objetos, proporciona una definición inicial para el estado (miembros de datos) y el comportamiento (miembros de la función).
+  - **Respuesta correcta:** d) Una plantilla para crear objetos, proporciona una definición inicial para el estado (miembros de datos) y el comportamiento (miembros de la función).
+
+
+
 
 
     
