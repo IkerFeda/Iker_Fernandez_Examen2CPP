@@ -1,0 +1,14 @@
+//
+// Created by ikerf on 14/12/2023.
+//
+
+#ifndef IKER_FERNANDEZ_EXAMEN2CPP_MAIN_H
+#define IKER_FERNANDEZ_EXAMEN2CPP_MAIN_H
+
+
+class Main {
+
+};
+
+
+#endif //IKER_FERNANDEZ_EXAMEN2CPP_MAIN_H
