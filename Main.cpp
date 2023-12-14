@@ -42,4 +42,5 @@ int main(){
     return 0;
 }
 
-// La diferencia principal entre ambos radica en el uso de herencia y polimorfismo, que en C++ se puede hacer uso de ellos.
+// La diferencia principal entre ambos radica en el uso de herencia y polimorfismo, que en C++ se puede hacer uso de ellos. Ademas la sintaxis es mas sencilla y facil de entender en C++ que en C.
+
