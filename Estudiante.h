@@ -11,6 +11,10 @@ class Estudiante {
     int edad;
     float nota;
 
+    void MostrarDatos();
+    std::cout << "Nombre: " << Estudiante.nombre << std::endl;
+    std::cout << "Edad: " << Estudiante.edad << std::endl;
+    std::cout << "Promedio: " << Estudiante.nota << std::endl;
 };
 
 
