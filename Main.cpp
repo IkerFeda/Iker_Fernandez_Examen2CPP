@@ -44,3 +44,36 @@ int main(){
 
 // La diferencia principal entre ambos radica en el uso de herencia y polimorfismo, que en C++ se puede hacer uso de ellos. Ademas la sintaxis es mas sencilla y facil de entender en C++ que en C.
 
+
+
+//Este es el codigo que implementa las materias en C++
+
+#include "vector"
+#include "iostream"
+#include "string"
+#include "Estudiante.h"
+
+int main() {
+    Estudiante estudiante1;
+    estudiante1.nombre = "Iker";
+    estudiante1.edad = 20;
+    estudiante1.nota = 9.5;
+
+    estudiante1.MostrarDatos();
+    estudiante1.AgregarMateria("Matematicas");
+    estudiante1.AgregarMateria("Fisica");
+    estudiante1.AgregarMateria("Programacion");
+
+    estudiante1.MostrarMaterias();
+
+    estudiante1.EliminarMateria("Programacion");
+    estudiante1.MostrarMaterias();
+
+    return 0;
+}
+
+// Nuevamente implementa la herencia de "Estudiante.h"
+
+//Contraparte en codigo C
+
+
