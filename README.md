@@ -27,6 +27,25 @@
    - d) Una característica específica de C.
   - **Respuesta correcta:** b) Permiten la creación de funciones y clases genéricas, es decir, que pueden trabajar con cualquier tipo de datos.
 
+## Parte Codigo
+### Comparación:
+
+### C++
+
+- **Utiliza clases y estructuras para organizar y encapsular el código:** En C++, se emplean clases y estructuras para organizar el código en entidades lógicas, permitiendo la encapsulación de datos y funciones relacionadas en un solo lugar.
+
+- **Ofrece características más avanzadas como manejo de excepciones, operaciones orientadas a objetos y bibliotecas estándar más amplias:** C++ proporciona un conjunto más extenso de funcionalidades avanzadas, como el manejo de excepciones para gestionar errores de manera estructurada, soporte para programación orientada a objetos (POO) y una biblioteca estándar más amplia que incluye diversas funcionalidades para facilitar el desarrollo de aplicaciones.
+
+### C
+
+- **Utiliza estructuras y funciones estándar de C para organizar datos:** En C, se utilizan estructuras y funciones estándar para organizar y manipular datos. Las estructuras permiten agrupar diferentes tipos de datos bajo un solo nombre.
+
+- **Proporciona una sintaxis simple y directa para trabajar con datos, pero con menos características avanzadas en comparación con C++:** C se enfoca en una sintaxis más directa y simple para trabajar con datos, pero ofrece menos características avanzadas en comparación con C++, careciendo de algunas funcionalidades más complejas como el manejo de excepciones y las operaciones orientadas a objetos que se encuentran en C++.
+
+
+
+
+
 
 
 
